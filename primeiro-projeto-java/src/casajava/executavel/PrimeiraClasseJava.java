@@ -11,7 +11,7 @@ public class PrimeiraClasseJava {
 		
 		System.out.println("Olá mundo");
 		
-		System.out.println("Olá mundo2");
+		System.out.println("Olá mund2");
 		
 		
 	}
